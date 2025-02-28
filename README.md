@@ -1,14 +1,16 @@
 # Hi, I'm kazmi 👋
+- I have a computer
 - Introvert
 - building apps from PAK 🇵🇰
-- I have a computer
-- I hate any. That's why I use TypeScript!
-- I like dark mode. light attracts bugs!
-
-- Compare your current self only to your past self. Are you better than you were six months ago? That's progress.
+ 
 
 ## 🧑‍💻 Favourites
-
+- Typescript (and i don't write 'any')
+- React (sometime Native as well)
+- Tailwind (of course i can make fancy UI)
+- Electron
+- Next.js
+- Backend (Node.js, Django)
 - Turborepo / Monorepo
-- Nextjs
-
+- Serverless (which is not fully serverless)
+- Opensource (i mean reading opensource code 🤪)
