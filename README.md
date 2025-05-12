@@ -1,6 +1,6 @@
 # Hi, I'm kazmi 👋
-- I have a computer
 - Introvert
+- I have a computer
 - building apps from PAK 🇵🇰
  
 
