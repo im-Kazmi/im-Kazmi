@@ -1,5 +1,5 @@
 # Hi, I'm kazmi 👋
-- Introvert
+- Hardcore Introvert
 - I have a computer
 - building apps from PAK 🇵🇰
  
