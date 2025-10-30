@@ -13,5 +13,5 @@
 - Backend (Node.js Frameworks, FastAPI, Django)
 - Turborepo / Monorepo
 - Serverless (which is not fully serverless)
-- Langchain (Because: I love building AI apps)
+- Langchain & Langgraph (Because: I love building AI apps)
 - Opensource (i mean reading opensource code 🤪)
