@@ -1,7 +1,7 @@
 # Hi, I'm kazmi 👋
 - Hardcore Introvert
 - I have a computer
-- building apps from PAK 🇵🇰
+- building apps from AFG
  
 
 ## 🧑‍💻 Favourites
