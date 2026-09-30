@@ -50,10 +50,10 @@ A fast till for small businesses: quick selling, stock tracking, credit sales on
 
 ## What I've built
 
-| Project | Domain | What it does
-|---|---|---|---|
-| [FacultyEdge](https://facultyedge.com/) | Education | Used at an Ontario college 
-| [AGCDynamic](https://agcconsulting.org/) | NGO | Budgets, grants, accounting, HR 
+| Project | Domain | What it does |
+|---|---|---|
+| [FacultyEdge](https://facultyedge.com/) | Education | Used at an Ontario college |
+| [AGCDynamic](https://agcconsulting.org/) | NGO | Budgets, grants, accounting, HR |
 
 ## Tech I work with
 
