@@ -4,7 +4,7 @@ I build software that businesses and organizations run on every day: ERP platfor
 
 ## Experience
 
-The systems I have built are in daily use, including at an Ontario college ([link here](https://example.com)). I work on the whole product, from understanding what finance, HR, sales, and operations teams need, to the data model underneath, to an interface people actually enjoy using.
+The systems I have built are in daily use, including at an Ontario college ([link here](https://facultyedge.com/)). I work on the whole product, from understanding what finance, HR, sales, and operations teams need, to the data model underneath, to an interface people actually enjoy using.
 
 * ERP platforms for NGOs covering budgets, fiscal periods, grants and awards, accounting, invoices, time off, and employee management
 * A point-of-sale system with a sell screen, barcode scanning, inventory, loans, expenses, and cash flow reports
@@ -50,11 +50,10 @@ A fast till for small businesses: quick selling, stock tracking, credit sales on
 
 ## What I've built
 
-| Project | Domain | What it does | Stack |
+| Project | Domain | What it does
 |---|---|---|---|
-| [Project name](link) | Education | Used at an Ontario college | [stack] |
-| [Project name](link) | NGO | Budgets, grants, accounting, HR | [stack] |
-| [Project name](link) | Retail | Point of sale, inventory, cash flow | [stack] |
+| [FacultyEdge](https://facultyedge.com/) | Education | Used at an Ontario college 
+| [AGCDynamic](https://agcconsulting.org/) | NGO | Budgets, grants, accounting, HR 
 
 ## Tech I work with
 
