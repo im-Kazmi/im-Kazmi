@@ -61,7 +61,7 @@ A fast till for small businesses: quick selling, stock tracking, credit sales on
 * **Frontend:** React (sometimes Native), Next.js, Tailwind
 * **Desktop:** Electron & Tauri
 * **Backend:** Node.js frameworks, FastAPI, Django
-* **Data and reporting:** [MySQL / PostgreSQL], [Power BI, if true]
+* **Databases:** [MySQL / PostgreSQL, MongoDB],
 * **Architecture:** Turborepo and monorepos, serverless (not fully serverless)
 * **AI:** LangChain and LangGraph, because I love building AI apps
 
